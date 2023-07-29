@@ -1,5 +1,5 @@
 ### <h1 align="center">Привет, меня зовут Филипп! </h1>
-Обо мне:
+<p>Обо мне:</p>
 Я начинающий backend разработчик на GoLang. Мой путь в программировании начался в октябре 2022 года, когда я решил глубже погрузиться в мир разработки и выбрал GoLang в качестве своего основного языка. С тех пор я активно изучаю и практикуюсь в создании веб-приложений и микросервисов с использованием GoLang,а также продолжаю изучать смежные технологии, такие как базы данных, REST API. 
 <h3 align="left">Мой стек:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
